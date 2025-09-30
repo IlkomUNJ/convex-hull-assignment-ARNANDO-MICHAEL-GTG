@@ -9,6 +9,8 @@ Explain how you use the AI to solve the assignment. Put all ***your used queries
 # Collaboration usage
 Explain how you are ***using others*** to complete the assignment in this section. Are they simply copying, learn the ideas, learn how to adapt the AI or anything involving the process. State the people if any & Please be elaborate. Declare self tought if you solved this by yourself. 
 
+Dalam pengerjaan tugas ini saya melakukan kolaborasi langsung dengan teman saya dan juga dengan bantuan AI untuk membantu mengerjakan tugas tersebut, untuk belajar memahami dan kemudian menyesuaikan hasil AI ke dalam tugas tersebut.
+
 # Commit Rules
 Use .gitignore to stripe any binaries from the resulting build before commit.  If you cloned directly from the template, you are safe. 
 
